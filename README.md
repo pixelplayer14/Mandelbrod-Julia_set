@@ -12,3 +12,5 @@ JuliaSet specific
 change the C in the julia set equation : left click  
 add a point to the path that will be traced: ctrl+left click  
 play the path you selected : P  
+
+Todo: julia set zoom
